@@ -1,0 +1,7 @@
+{
+  "name": "ArchitectureComponents-Main",
+  "url": "https://github.com/Fulgurance/ArchitectureComponents-Main",
+  "publicKeyUrl": "http://www.slashlinux.io/keyring/Fulgurance.key",
+  "type": "Git",
+  "description": "Port that contain virtual softwares to set the targeted architecture"
+}
